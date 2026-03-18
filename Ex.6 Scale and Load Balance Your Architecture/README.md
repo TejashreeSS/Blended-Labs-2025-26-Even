@@ -1,9 +1,10 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
-## Title
-
+# Title
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+## Author : TEJASHREE S S
+## Reg no : 212224100058
+## Date : 18.03.2026
 
 ---
 
@@ -64,17 +65,13 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
-
-Describe step-by-step how you performed this experiment in your own words.
-
----
-
 ## Output Screenshots 
 
+<img width="1257" height="841" alt="image" src="https://github.com/user-attachments/assets/a50d4d97-7a41-47f8-b692-f5e9e7239364" />
 
----
+<img width="1261" height="840" alt="image" src="https://github.com/user-attachments/assets/1f07d4e9-7b95-4985-aae2-30d5d75a896d" />
 
+<img width="1260" height="853" alt="image" src="https://github.com/user-attachments/assets/c594266f-9ccc-4cea-9598-8ac0ed252529" />
 
 ## Result
 
